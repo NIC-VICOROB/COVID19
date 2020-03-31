@@ -48,9 +48,9 @@ to X-ray and CT images.
 Please find the related literature [here](./literature.md),
 covering scientific related literature and interesting blog posts.
 
-## Available models
+## Available methods
 
-Please find the related existing models and implementations [here](./models.md).
+Please find the related existing methods and implementations [here](./methods.md).
 
 
 ## Best practices
