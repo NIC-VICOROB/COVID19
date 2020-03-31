@@ -48,11 +48,17 @@ to X-ray and CT images.
 Please find the related literature [here](./literature.md),
 covering scientific related literature and interesting blog posts.
 
+## Available models
+
+Please find the related existing models and implementations [here](./models.md).
+
 
 ## Best practices
 * Fork this repository to add your contributions and add a pull
   request to update it.
-* Develop your methods in Jypyter Notebooks if possible.
+* Develop your methods in Jupyter Notebooks if possible.
+* Please provide a way to download your data in order to replicate the
+  results as much as possible.
 * All models should be placed inside the `models` folder.
 * Create a new folder with your model, adding a `requeriments.txt` if
   necessary.
@@ -60,10 +66,10 @@ covering scientific related literature and interesting blog posts.
 * Use graphical figures and explanatory analysis when possible.
 * Use [issues](https://github.com/NIC-VICOROB/COVID19/issues)
     extensively.
-* Sync the tasks between the members of the group with [this project template](https://github.com/NIC-VICOROB/COVID19/projects/1?add_cards_query=is%3Aopen)
+* Sync the tasks between the members of the group with [this project template](https://github.com/NIC-VICOROB/COVID19/projects/1?add_cards_query=is%3Aopen).
 
 
 
 ## Contact
 Contact: [Sergi Valverde, Postodoctoral researcher, University of
-Girona, Spain](https://github.com/sergivalverde)
+Girona, Spain](https://github.com/sergivalverde).
