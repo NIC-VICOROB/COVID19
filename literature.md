@@ -16,6 +16,8 @@ group.
 
 ## CT scientific literature
 
+* [Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Imagesand Deep Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/2003/2003.10849.pdf)
+
 
 ## Interesting blog posts
 

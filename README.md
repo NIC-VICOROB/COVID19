@@ -41,7 +41,8 @@ to X-ray and CT images.
 * [Open source github dataset](https://github.com/ieee8023/covid-chestxray-dataset)
 * [Kaggle RSNA pneumonia dataset](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
 * [Kaggle COMS COVID-19 competition (private?)](https://www.kaggle.com/c/4771-sp20-covid/overview)
-
+*  [NIHCC dataset](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
+* [NIHCC subset (Kaggle)](https://www.kaggle.com/neilturley/nihcc-chest-xray)
 
 ## Related literature
 
