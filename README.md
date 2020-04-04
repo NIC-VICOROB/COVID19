@@ -51,7 +51,7 @@ to X-ray and CT images.
 *  [NIHCC dataset](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 * [NIHCC subset
   (Kaggle)](https://www.kaggle.com/neilturley/nihcc-chest-xray)
-  * [BIMVC dataset](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19/tree/master/padchest-covid#data-sources-bimcv-padchest)
+* [BIMVC dataset](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19/tree/master/padchest-covid#data-sources-bimcv-padchest)
 
 ## Related literature
 
