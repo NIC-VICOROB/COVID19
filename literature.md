@@ -10,9 +10,7 @@ group.
 
 
 ## X-ray scientific literature
-*
-*
-
+* [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871)
 
 ## CT scientific literature
 
