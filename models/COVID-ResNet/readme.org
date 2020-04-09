@@ -1,0 +1,5 @@
+* Various experiments with the ResNet50 architecture.
+
+** Implementing the paper proposed at http://arxiv.org/abs/2003.14395 [[COVID-ResNet.ipynb]]
+** A two-stage approach, pretraining an initial network to differentiate between pneumonia and normal subjects, and then refining it to differentiate between covid and the rest. [[./COVID-ResNet_two_stage.ipynb
+]]
