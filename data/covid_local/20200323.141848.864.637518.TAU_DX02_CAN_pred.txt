@@ -1,0 +1,14 @@
+--------------------------------------------------
+VICOROB (Universitat de Girona) 2020 
+https://vicorob.udg.edu
+
+PREAMBLE:
+- This is a research tool, do not use it as a diagnostic tool
+--------------------------------------------------
+
+
+Input probabilities for case: 20200323.141848.864.637518.TAU_DX02_CAN
+--------------------------------------------------
+Probability to COVID: 0.9984987
+--------------------------------------------------
+Prediction performed at 28/04/2020 17:55:04

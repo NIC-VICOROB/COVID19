@@ -1,0 +1,14 @@
+--------------------------------------------------
+VICOROB (Universitat de Girona) 2020 
+https://vicorob.udg.edu
+
+PREAMBLE:
+- This is a research tool, do not use it as a diagnostic tool
+--------------------------------------------------
+
+
+Input probabilities for case: 20200407.130428.551.339094.TAU_DX02_CAN
+--------------------------------------------------
+Current scan is not valid for inference. 
+--------------------------------------------------
+Prediction performed at 24/04/2020 15:49:54
